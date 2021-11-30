@@ -31,5 +31,5 @@ The R code will produced a figure in the folder `figures/`.
 Alternatively to steps 1-4, you can run this command in a terminal:
 
 ```sh
-docker run --rm -p 127.0.0.1:8787:8787 -e DISABLE_AUTH=true ahasverus/demorocker
+docker run --rm -p 127.0.0.1:8787:8787 -e DISABLE_AUTH=true ahasverus/demorocker:1.0
 ```
