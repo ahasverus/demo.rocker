@@ -1,0 +1,9 @@
+^renv$
+^renv\.lock$
+^figures$
+^data$
+^.*\.Rproj$
+^\.Rproj\.user$
+^Dockerfile$
+^.dockerignore$
+^make\.R$

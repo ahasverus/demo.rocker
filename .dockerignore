@@ -1,0 +1,6 @@
+.DS_Store
+.git
+renv/library
+renv/local
+*.Rproj
+figure/figure_1.png
